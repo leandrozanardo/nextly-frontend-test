@@ -8,17 +8,14 @@
     </div>
     <!-- Right content -->
     <div class="right-content">
-        <form class="search-form">
-            <input type="text" placeholder="Søk">
-            <button type="submit">
-                <span class="icon-search_light"></span>
-            </button>
-        </form>
-        <button class="btn-secondary login-button" style="margin-left: 24px;">
+        <a href="" class="search-button">
+            Søk <span class="font-icon icon-search_light"></span>
+        </a>
+        <a class="btn-secondary login-button" style="margin-left: 24px;">
             Logg inn<span class="font-icon icon-user"></span>
-        </button>
-        <button class="btn-default menu-button" style="margin-left: 24px;">
+        </a>
+        <a class="btn-default menu-button" style="margin-left: 24px;">
             Meny <span class="font-icon icon-menu_hamburguer"></span>
-        </button>
+        </a>
     </div>
 </nav>

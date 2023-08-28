@@ -30,27 +30,14 @@
     justify-content: flex-end;
     align-items: center;
 
-    .search-form {
-      display: none;
+    .search-button {
+      display: flex;
+      padding: 15px 18px;
+      font-size: 18px;
 
-      @media (min-width: 1240px) {
-        display: flex;
-        align-items: center;
-      }
-
-      .search-input {
-        padding: 10px;
-        border: 1px solid #ccc;
-        border-radius: 5px 0 0 5px;
-      }
-
-      .search-button {
-        background-color: $secondary-beige-200;
-        border: none;
-        border-radius: 0 5px 5px 0;
-        color: #333;
-        padding: 10px 20px;
-        cursor: pointer;
+      .font-icon {
+        font-size: 20px;
+        margin-left: 12px;
       }
     }
 
@@ -60,7 +47,7 @@
       @media (min-width: 1240px) {
         display: flex;
         .font-icon {
-          font-size: 1.5rem;
+          font-size: 20px;
           margin-left: 12px;
         }
       }
@@ -68,8 +55,9 @@
 
     .menu-button {
       display: flex;
+
       .font-icon {
-        font-size: 1.5rem;
+        font-size: 30px;
         margin-left: 12px;
       }
     }
@@ -119,7 +107,7 @@
     display: flex;
     cursor: pointer;
 
-    .font-icon{
+    .font-icon {
       font-size: 24px;
       margin-left: 12px;
     }
@@ -181,13 +169,13 @@
         align-items: center;
         background-color: $secondary-green-200;
 
-        &:hover{
+        &:hover {
           background-color: $primary-white;
           border: solid 2px $primary-black;
           color: $primary-black;
         }
 
-        .font-icon{
+        .font-icon {
           margin-left: 12px;
           font-size: 20px;
         }
@@ -263,7 +251,7 @@
           text-decoration: underline;
         }
 
-        .font-icon{
+        .font-icon {
           font-size: 24px;
           margin-right: 24px;
         }
