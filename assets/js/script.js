@@ -1,4 +1,12 @@
 document.addEventListener("DOMContentLoaded", function() {
+
+  loadMegaMenu();
+
+  loadSearchAction();
+
+});
+
+function loadMegaMenu(){
   const menuButton = document.querySelector(".menu-button");
   const megaMenu = document.querySelector(".mega-menu");
   const menuCloseButton = document.querySelector(".menu-close-button");
@@ -10,10 +18,11 @@ document.addEventListener("DOMContentLoaded", function() {
   menuCloseButton.addEventListener("click", function() {
     megaMenu.style.display = "none";
   });
+};
 
+function loadSearchAction(){
   const searchButton = document.querySelector('.jsSearch');
   const searchInput = document.querySelector('.search-input');
-
 
   searchButton.addEventListener('click', function(event) {
     event.preventDefault();
@@ -22,4 +31,4 @@ document.addEventListener("DOMContentLoaded", function() {
 
     searchInput.focus();
   });
-});
+}
