@@ -4,10 +4,10 @@ document.addEventListener("DOMContentLoaded", function () {
   const menuCloseButton = document.querySelector(".menu-close-button");
 
   menuButton.addEventListener("click", function () {
-    megaMenu.style.display = "block"; // Exibir o mega-menu
+    megaMenu.style.display = "block";
   });
 
   menuCloseButton.addEventListener("click", function () {
-    megaMenu.style.display = "none"; // Fechar o mega-menu
+    megaMenu.style.display = "none";
   });
 });
