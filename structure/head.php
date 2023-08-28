@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Personal website of Leandro Zanardo for Senior Designer (Front End Developer) test.">
+    <meta name="description" content="Website of Leandro Zanardo for Senior Designer (Front End Developer) test.">
     <title>Leandro Zanardo - Frontend Test</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
