@@ -8,9 +8,9 @@
     </div>
     <!-- Right content -->
     <div class="right-content">
-        <a href="" class="search-button">
+        <button class="search-button jsSearch">
             Søk <span class="font-icon icon-search_light"></span>
-        </a>
+        </button>
         <a class="btn-secondary login-button" style="margin-left: 24px;">
             Logg inn<span class="font-icon icon-user"></span>
         </a>
