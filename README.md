@@ -46,7 +46,7 @@ To view the project locally using XAMPP:
 
 ## View in Production
 
-You can also view the project in production at [https://www.example.com](https://www.example.com).
+You can also view the project in production at [https://nextly-frontend-test.onrender.com/](https://nextly-frontend-test.onrender.com/).
 
 ## Contact
 

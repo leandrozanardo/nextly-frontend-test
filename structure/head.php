@@ -10,10 +10,10 @@
     <meta property="og:title" content="Nextly - Leandro Zanardo">
     <meta property="og:description" content="Nextly - Personal website of Leandro Zanardo showcasing portfolio and expertise in web development.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.example.com"> <!-- Replace with your actual URL -->
+    <meta property="og:url" content="https://nextly-frontend-test.onrender.com/">
     <meta property="og:image" content="./assets/favicon/favicon-196x196.png">
 
-    <link rel="canonical" href="https://www.example.com"> <!-- Replace with your actual canonical URL -->
+    <link rel="canonical" href="https://nextly-frontend-test.onrender.com/">
 
     <!-- Add a favicon for your website -->
     <link rel="icon" type="image/png" href="./assets/favicon/favicon-196x196.png" sizes="196x196" />
