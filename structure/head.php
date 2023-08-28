@@ -6,9 +6,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Personal website of Leandro Zanardo for Senior Designer (Front End Developer) test.">
-
     <meta property="og:title" content="Nextly - Leandro Zanardo">
-    <meta property="og:description" content="Nextly - Personal website of Leandro Zanardo showcasing portfolio and expertise in web development.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://nextly-frontend-test.onrender.com/">
     <meta property="og:image" content="./assets/favicon/favicon-196x196.png">
