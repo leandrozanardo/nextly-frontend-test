@@ -5,7 +5,7 @@
     <title>Leandro Zanardo - Frontend Test</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:title" content="Leandro Zanardo - Frontend Test">
+    <meta name="og:title" content="Leandro Zanardo - Frontend Test">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://nextly-frontend-test.onrender.com/">
     <meta property="og:image" content="./assets/favicon/favicon-196x196.png">
