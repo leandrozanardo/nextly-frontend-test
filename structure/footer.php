@@ -3,8 +3,6 @@
     <div class="footer-logo">
         <img src="assets/img/logo/logo.png" alt="Footer Logo" class="img-fluid footer-logo-img">
     </div>
-
-    </div>
     <div class="footer-columns">
         <div class="footer-column">
             <h3 class="footer-column-title">Adresse</h3>
