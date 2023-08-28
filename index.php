@@ -139,7 +139,7 @@
             <div class="news-title">Nyheter</div>
             <div class="news-row">
                 <div class="new-card">
-                    <img src="assets/img/home/news-1.png" alt="new 1" class="img-fluid new-image">
+                    <img src="assets/img/home/news-1.png" alt="News 1" class="img-fluid new-image">
                     <div class="new-details">
                         <span class="new-date">17. april 2023</span>
                         <h2 class="new-title">Går med rekordoverskudd: – Skogeiere har vært lojale til samvirket</h2>
@@ -150,7 +150,7 @@
                     </div>
                 </div>
                 <div class="new-card">
-                    <img src="assets/img/home/news-2.png" alt="new 2" class="img-fluid new-image">
+                    <img src="assets/img/home/news-2.png" alt="News  2" class="img-fluid new-image">
                     <div class="new-details">
                         <span class="new-date">17. april 2023</span>
                         <h2 class="new-title">BRUK RABATTEN DIN PÅ KURS I NORSK PEFC SKOGSTANDARD</h2>
@@ -161,7 +161,7 @@
                     </div>
                 </div>
                 <div class="new-card">
-                    <img src="assets/img/home/news-3.png" alt="new 3" class=" img-fluid new-image">
+                    <img src="assets/img/home/news-3.png" alt="News  3" class=" img-fluid new-image">
                     <div class="new-details">
                         <span class="new-date">17. april 2023</span>
                         <h2 class="new-title">Dette bør du vite om nye miljøhensyn i skogen</h2>
